@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="331" started-at="2014-10-04T07:21:40Z" finished-at="2014-10-04T07:21:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="331" started-at="2014-10-04T07:21:40Z" finished-at="2014-10-04T07:21:41Z">
+      <class name="wordChallenge.DictionaryTest">
+        <test-method status="PASS" signature="TestLoadingDictionaryFromFileLoadingTimeCheck()[pri:0, instance:wordChallenge.DictionaryTest@84b8a]" name="TestLoadingDictionaryFromFileLoadingTimeCheck" duration-ms="292" started-at="2014-10-04T17:21:40Z" finished-at="2014-10-04T17:21:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLoadingDictionaryFromFileLoadingTimeCheck -->
+        <test-method status="PASS" signature="TestLookupWordsforInvalidnumbers()[pri:0, instance:wordChallenge.DictionaryTest@84b8a]" name="TestLookupWordsforInvalidnumbers" duration-ms="1" started-at="2014-10-04T17:21:41Z" finished-at="2014-10-04T17:21:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLookupWordsforInvalidnumbers -->
+        <test-method status="PASS" signature="TestLookupWordsifMatchesCorrectly()[pri:0, instance:wordChallenge.DictionaryTest@84b8a]" name="TestLookupWordsifMatchesCorrectly" duration-ms="0" started-at="2014-10-04T17:21:41Z" finished-at="2014-10-04T17:21:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLookupWordsifMatchesCorrectly -->
+        <test-method status="PASS" signature="TestLookupWordsifhandlesverylonginput()[pri:0, instance:wordChallenge.DictionaryTest@84b8a]" name="TestLookupWordsifhandlesverylonginput" duration-ms="1" started-at="2014-10-04T17:21:41Z" finished-at="2014-10-04T17:21:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLookupWordsifhandlesverylonginput -->
+        <test-method status="PASS" signature="TestNullCheckFindWordsfromDict()[pri:0, instance:wordChallenge.DictionaryTest@84b8a]" name="TestNullCheckFindWordsfromDict" duration-ms="3" started-at="2014-10-04T17:21:41Z" finished-at="2014-10-04T17:21:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestNullCheckFindWordsfromDict -->
+        <test-method status="PASS" signature="TestPhonParserAddStringNullCheck()[pri:0, instance:wordChallenge.DictionaryTest@84b8a]" name="TestPhonParserAddStringNullCheck" duration-ms="2" started-at="2014-10-04T17:21:41Z" finished-at="2014-10-04T17:21:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestPhonParserAddStringNullCheck -->
+        <test-method status="PASS" signature="Testconver2KayPadNumbersFunctionalities()[pri:0, instance:wordChallenge.DictionaryTest@84b8a]" name="Testconver2KayPadNumbersFunctionalities" duration-ms="1" started-at="2014-10-04T17:21:41Z" finished-at="2014-10-04T17:21:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testconver2KayPadNumbersFunctionalities -->
+        <test-method status="PASS" signature="TestfindWordCombinationsIterativelyfortiming()[pri:0, instance:wordChallenge.DictionaryTest@84b8a]" name="TestfindWordCombinationsIterativelyfortiming" duration-ms="2" started-at="2014-10-04T17:21:41Z" finished-at="2014-10-04T17:21:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestfindWordCombinationsIterativelyfortiming -->
+        <test-method status="PASS" signature="TestfindWordForcornerCasesof10()[pri:0, instance:wordChallenge.DictionaryTest@84b8a]" name="TestfindWordForcornerCasesof10" duration-ms="1" started-at="2014-10-04T17:21:41Z" finished-at="2014-10-04T17:21:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestfindWordForcornerCasesof10 -->
+        <test-method status="PASS" signature="testAdd2Dictionary()[pri:0, instance:wordChallenge.DictionaryTest@84b8a]" name="testAdd2Dictionary" duration-ms="1" started-at="2014-10-04T17:21:41Z" finished-at="2014-10-04T17:21:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd2Dictionary -->
+      </class> <!-- wordChallenge.DictionaryTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
